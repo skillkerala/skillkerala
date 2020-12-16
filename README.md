@@ -1,4 +1,6 @@
-### Hi there 👋
+# Skill Kerala Free Online Classes
+
+This is a repository for hosting the assets for the Skill Kerala Free Online Classes.
 
 <!--
 **skillkerala/skillkerala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
