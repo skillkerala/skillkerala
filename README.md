@@ -1,4 +1,3 @@
-<img src="https://github.com/SkillKeralaOnline/images/blob/main/Abdul_kalam.jpg">
 # Skill Kerala Free Online Classes
 
 This is a repository for the Skill Kerala Free Online Classes. We offer free online classes for secondary and higher secondary school students in Kerala, India.
