@@ -1,8 +1,10 @@
----
-title: "Patrons"
-draft: true
----
-# Our Patrons
++++
+author = "Hugo Authors"
+title = "Patrons"
+description = "Our powerhouse"
++++
+
+
 
 * Amy Lodato, California
 * Anija Jayesh & Jayesh Reghunathan, Australia

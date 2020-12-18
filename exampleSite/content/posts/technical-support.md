@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "Technical Support"
-description = "Lorem Ipsum Dolor Si Amet"
+description = "Tech Support"
 +++
 
 Santosh Kumar, Bangalore, KA, India
