@@ -28,8 +28,8 @@ paginate = 5
   description = "Skill Kerala Free Online Classes"
 
   # Author
-  author      = "John Doe"
-  authorDesc  = "Some indescribable horror."
+  author      = "Skill Kerala"
+  authorDesc  = "Service."
 
   # Site cover, for Open Graph, Twitter Cards and Schema.org
   # It will be used if the current page doesn't have a image cover
