@@ -1,0 +1,56 @@
+[
+  {
+    "entry": "facebook",
+    "label": "Facebook",
+    "base": "https://www.facebook.com/",
+    "icon": {
+      "id": "facebook",
+      "source": "Font-Awesome"
+    }
+  },
+  {
+    "entry": "github",
+    "label": "GitHub",
+    "base": "https://github.com/",
+    "icon": {
+      "id": "github",
+      "source": "Font-Awesome"
+    }
+  },
+  {
+    "entry": "instagram",
+    "label": "Instagram",
+    "base": "https://www.instagram.com/",
+    "icon": {
+      "id": "instagram",
+      "source": "Font-Awesome"
+    }
+  },
+  {
+    "entry": "linkedin",
+    "label": "LinkedIn",
+    "base": "https://www.linkedin.com/",
+    "icon": {
+      "id": "linkedin",
+      "source": "Font-Awesome"
+    }
+  },
+  {
+    "entry": "whatsapp",
+    "label": "WhatsApp",
+    "base": "https://wa.me/",
+    "icon": {
+      "id": "whatsapp",
+      "source": "Font-Awesome"
+    }
+  },
+  {
+    "entry": "youtube",
+    "label": "YouTube",
+    "base": "https://youtube.com/channel/",
+    "icon": {
+      "id": "youtube",
+      "source": "Font-Awesome"
+    }
+  }
+]
