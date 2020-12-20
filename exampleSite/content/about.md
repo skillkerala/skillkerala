@@ -5,7 +5,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-“Seva Paramo Dharma!” 
+“सेवा परमो धर्म” 
 
 Hello World!
 
