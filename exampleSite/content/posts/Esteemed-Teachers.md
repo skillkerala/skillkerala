@@ -20,13 +20,13 @@ Our central processing system! If it weren't for them, Skill Kerala wouldn't hav
 | Dr.A Dhiraj   |  Management Studies       |
 | Akhil MS, MSc Physics, Pondicherry Central University  | Physics     |
 | Aswini Lakshmi, Research Scholar, Physics, NIO Goa     | Physics       |
-| Clint Sebastien, Civil Service Trainee, India   | Mathematics       |
+| Clint Sebastien, Civil Service Trainee, India   | Politics and History      |
 | Bijesh Cheriya Muthoor, Physics Project Scientist, NIO Goa      | Physics     |
 | Usha Mandya, Technical Writer, Docker Inc Cambridge, United Kingdom   | English, Technical Writing      |
 | Radhika Puthiyedath, Technical Writer, Sysdig San Francisco, USA      | English, CS       |
-| Sareena M, Mathematics MCA at CCSIT University of Calicut   | CS |
+| Sareena M, Mathematics MCA at CCSIT University of Calicut   | Mathematics|
 | Nimisha Ann Jose, Assistant Professor in Statistics MG University     | Mathematics       |
-| Veena MS, Mathematics MCA at CCSIT University of Calicut   | CS       |
+| Veena MS, Mathematics MCA at CCSIT University of Calicut   | Mathematics      |
 | Bobika VK, Research Scholar in Zoology University of Calicut      | Zoology       |
 | Shniya, MCA, CCSIT University of Calicut  | CS      |
 | Amar Jyothi  |  Biology          |
