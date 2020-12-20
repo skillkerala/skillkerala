@@ -175,7 +175,7 @@ paginate = 5
     #vimeo         = [ "<username>" ]
     whatsapp      = [ "917306513261","Whatsapp" ]
     #xing          = [ "<username>" ]
-    youtube       = [ "<channelid>","" ]
+    youtube       = [ "UCIblb0eq5Z0jErqwOr3IGcA","" ]
     #entry         = [ "username", "label (optional)" ]
 
     # The "entry" here IS important. It's used to load the data.

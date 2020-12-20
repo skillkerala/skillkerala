@@ -29,7 +29,7 @@
   {
     "entry": "linkedin",
     "label": "LinkedIn",
-    "base": "https://www.linkedin.com/",
+    "base": "https://www.linkedin.com/in/",
     "icon": {
       "id": "linkedin",
       "source": "Font-Awesome"
