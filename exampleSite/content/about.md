@@ -5,13 +5,14 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-"सेवा परमो धर्म"
+“Seva Paramo Dharma!” 
 
 Hello World!
 
 We are a dedicated community of passionate educators, research scholars, and industry experts.
 
 Skill Kerala aims to connect students across Kerala with academic and industry experts, providing academic and vocational mentoring to enable them to embrace higher education effortlessly.
+
 
 We aim at
 
